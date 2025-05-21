@@ -26,6 +26,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 ### Cooking and Recipes
 
 - Based.cooking from Luke Smith: [Vault on GitHub ✨](https://github.com/lukesmithxyz/based.cooking) - [website](https://based.cooking/)
+- Chowdown by Clarklab: [Vault on GitHub ✨](https://github.com/clarklab/chowdown) - [website](https://chowdown.io/)
 - Grimgrains from Hundredrabbits: [Vault on GitHub ✨](https://github.com/hundredrabbits/Grimgrains) - [website](https://grimgrains.com/site/home.html)
 - Recetas de Cocina (Spanish) from Obsidian PKM Vault: [Vault on GitHub ✨](https://github.com/obsidian-pkm-vault/recetas-cocina) - [website](https://obsidian-pkm-vault.github.io/recetas-cocina/recetas/)
 - DevCookbook from Microsoft: [Vault on GitHub ✨](https://github.com/microsoft/DevCookbook/)
