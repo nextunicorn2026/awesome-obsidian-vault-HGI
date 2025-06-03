@@ -11,7 +11,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 - [Vaults classified by topics](#vaults-classified-by-topics)
   - [Cooking and Recipes](#cooking-and-recipes)
   - [Computer Science and Learning](#computer-science-and-learning)
-  - [System Design and Development](#system-design-and-development)
+  - [Development and System Design](#system-design-and-development)
   - [Cosmology Vault](#cosmology-vault)
   - [Digital Gardens + Templates](#digital-gardens--templates)
   - [Knowledge Repositories](#knowledge-repositories)
