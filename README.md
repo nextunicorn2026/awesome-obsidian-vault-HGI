@@ -11,9 +11,10 @@ A curated list of awesome resources, templates, guides for developers, digital g
 - [Vaults classified by topics](#vaults-classified-by-topics)
   - [Cooking and Recipes](#cooking-and-recipes)
   - [Computer Science and Learning](#computer-science-and-learning)
-  - [Development and System Design](#system-design-and-development)
   - [Cosmology Vault](#cosmology-vault)
-  - [Digital Gardens + Templates](#digital-gardens--templates)
+  - [Development and System Design](#system-design-and-development)
+  - [Digital Gardens + Templates](#digital-gardens-templates)
+  - [Engineering](#ngineering)
   - [Knowledge Repositories](#knowledge-repositories)
   - [Tutorial Guide](#tutorial-guide)
 - [Resources](#resources)
@@ -38,6 +39,8 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ### Computer Science and Learning
 
+- Computing notes from noodleslove: [vault](https://github.com/noodleslove/notes)
+- CS Notes: [vault ✨](https://github.com/xy-241/CS-Notes) - [website](https://notes.yxy.ninja/)
 - OSSU Computer Science: [vault](https://github.com/ossu/computer-science)
 - Learning Notes from keyvanakbary: [vault](https://github.com/keyvanakbary/learning-notes) - [website](https://keyvanakbary.github.io/learning-notes/)
 - Computer Guides from mayfrost: [vault](https://github.com/mayfrost/guides/tree/master)
@@ -46,11 +49,15 @@ A curated list of awesome resources, templates, guides for developers, digital g
 - JavaScript Info (RU) from Javascript-tutorial: [vault](https://github.com/javascript-tutorial/ru.javascript.info) - [website](https://ru.javascript.info/)
 - JavaScript Info (ZH) from Javascript-tutorial: [vault](https://github.com/javascript-tutorial/zh.javascript.info) - [website](https://zh.javascript.info/)
 
-### System Design and Development
+### Development and System Design
 
 - System Design 101 from ByteByteGoHq: [vault](https://github.com/ByteByteGoHq/system-design-101) - [website](https://bytebytego.com/guides/)
 - dotnet API Docs: [vault](https://github.com/dotnet/dotnet-api-docs) - [website](https://learn.microsoft.com/en-us/dotnet/api/)
 - SQL Docs from Microsoft Docs: [vault](https://github.com/MicrosoftDocs/sql-docs)
+
+### Engineering
+
+- Data Engineering Wiki: [vault](https://github.com/data-engineering-community/data-engineering-wiki) - [website](https://dataengineering.wiki/Index)
 
 ### Cosmology vault
 
@@ -58,6 +65,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ### Digital Gardens + templates
 
+- Alexis Chen notes: [vault](https://github.com/AlexiaChen/my-notes)
 - Obsidian Vault Template from CyanVoxel: [vault](https://github.com/CyanVoxel/Obsidian-Vault-Template)
 - Digital Gardeners from MaggieAppleton: [vault](https://github.com/MaggieAppleton/digital-gardeners)
 - Obsidian Templates from groepl: [vault](https://github.com/groepl/Obsidian-Templates)
