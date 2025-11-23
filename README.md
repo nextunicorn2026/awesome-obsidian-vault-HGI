@@ -1,8 +1,9 @@
 # Awesome List of Obsidian vaults
 
-A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets).
+> [!NOTE]
+> Not all of the vaults are compatible with Obsidian's Markdown syntax. Some of them come from static site generators, such as Hugo.
 
-> Not all vaults are Obsidian compatible (markdown syntax), some of them are from static site generators like HUGO
+A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets).
 
 ## Table of vault + website classified by topics
 
