@@ -5,7 +5,7 @@
 
 A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets).
 
-## Table of vault + website classified by topics
+## Table of vault + website classified by topics (41)
 
 | Category         | Name and author                           | vault                                                                        | web                                                                                    |     |
 | ---------------- | ----------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
@@ -52,9 +52,9 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Personal Site    | Rekka Bellum (kokorobot)                  | [vault](https://github.com/rekkabell/kokorobot)                              | [web](https://kokorobot.ca/site/)                                                      |     |
 | Sample vault     | Ideaverse — LYT (Nick Milo)               | N/A                                                                          | [web](https://www.linkingyourthinking.com/ideaverse-for-obsidian/onboarding-ideaverse) |     |
 
-## Resources
+## Resources (11)
 
-## Dictionaries and Language Resources
+## Dictionaries and Language Resources (6)
 
 - Kiwix Library (wikis offline under .zim): [library](https://library.kiwix.org/#lang=eng)
 - Wiktionary and Wikibooks from itkach: [wiki](https://github.com/itkach/slob/wiki/Wiktionary-and-Wikibooks) - [Mirror Service](https://www.mirrorservice.org/sites/download.kiwix.org/zim/wiktionary/)
@@ -63,14 +63,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
 - Wikis and Dicts from itkach: [wiki](https://github.com/itkach/slob/wiki/Other-projects)
 - Word Dictionaries (Wordnet and Freedict) from itkach: [wiki](https://github.com/itkach/slob/wiki/Word-dictionaries-(Wordnet-and-Freedict))
 
-## Cheat Sheets and Miscellaneous
+## Cheat Sheets and Miscellaneous (2)
 
 - Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
 - Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets)
 
 ---
 
-## List of Showcases
+## List of Showcases (3)
 
 - [Awesome list of Digital gardens - lyz-code](https://github.com/lyz-code/best-of-digital-gardens)
 - [Obsidian Digital Garden - Showcases](https://github.com/oleeskild/obsidian-digital-garden/issues/55)
