@@ -35,6 +35,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Digital Garden   | Obsidian Templates — groepl               | [vault](https://github.com/groepl/Obsidian-Templates)                        | N/A                                                                                    |     |
 | Digital Garden   | Obsidian Digital Garden — ThatOtherAndrew | [vault](https://github.com/ThatOtherAndrew/obsidian-digital-garden)          | [web](https://notes.thatother.dev/)                                                    |     |
 | Digital Garden   | Topobon — uroybd                          | [vault](https://github.com/uroybd/topobon)                                   | [web](https://hermitage.utsob.me/)                                                     | ✨   |
+| Documentation    | Dev Cheatsheets — Rico Sta. Cruz          | [vault](https://github.com/rstacruz/cheatsheets/tree/master#documentation)   | [web](https://devhints.io/)                                                            | ✨   |
 | Documentation    | Kepano Obsidian                           | [vault](https://github.com/kepano/kepano-obsidian)                           | [web](https://stephango.com/vault)                                                     | ✨   |
 | Documentation    | Obsidian Icewind — shervinsahba           | [vault](https://github.com/shervinsahba/obsidian-icewind)                    | [web](https://icewind.quest/)                                                          | ✨   |
 | Documentation    | Blue Book — lyz-code                      | [vault](https://github.com/lyz-code/blue-book)                               | [web](https://lyz-code.github.io/blue-book/)                                           |     |
@@ -66,6 +67,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 - Anki Shared Decks: [vault](https://ankiweb.net/shared/decks/)
 - Cheatsheets from rstacruz: [vault](https://github.com/rstacruz/cheatsheets)
+- Devhints: [web](https://devhints.io/)
 
 ---
 
