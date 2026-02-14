@@ -5,7 +5,7 @@
 
 A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets).
 
-## Table of vault + website classified by topics (41)
+## Table of vault + website classified by topics (43)
 
 | Category         | Name and author                           | vault                                                                        | web                                                                                    |     |
 | ---------------- | ----------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --- |
@@ -33,6 +33,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Digital Garden   | Obsidian Vault Template — CyanVoxel       | [vault](https://github.com/CyanVoxel/Obsidian-Vault-Template)                | N/A                                                                                    |     |
 | Digital Garden   | Digital Gardeners — MaggieAppleton        | [vault](https://github.com/MaggieAppleton/digital-gardeners)                 | N/A                                                                                    |     |
 | Digital Garden   | Obsidian Templates — groepl               | [vault](https://github.com/groepl/Obsidian-Templates)                        | N/A                                                                                    |     |
+| Digital Garden   | Obsidian Templates — ykerus               | [vault](https://github.com/ykerus/obsidian-templates)                        | N/A                                                                                    |     |
 | Digital Garden   | Obsidian Digital Garden — ThatOtherAndrew | [vault](https://github.com/ThatOtherAndrew/obsidian-digital-garden)          | [web](https://notes.thatother.dev/)                                                    |     |
 | Digital Garden   | Topobon — uroybd                          | [vault](https://github.com/uroybd/topobon)                                   | [web](https://hermitage.utsob.me/)                                                     | ✨   |
 | Documentation    | Documentation — Rico Sta. Cruz            | [vault](https://github.com/rstacruz/cheatsheets/tree/master#documentation)   | [web](https://devhints.io/)                                                            |     |
@@ -44,6 +45,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Documentation    | Intersect — rknightuk                     | [vault](https://github.com/rknightuk/intersect)                              | [web](https://intersect.rknight.me/)                                                   |     |
 | Documentation    | DashboardPlusPlus — TfTHacker             | [vault](https://github.com/TfTHacker/DashboardPlusPlus)                      | [web](https://tfthacker.com/DashboardPlusPLus)                                         |     |
 | Documentation    | Gatekeeperwiki Game  — Gravity Lagoon     | [vault](https://github.com/obsidian-pkm-vault/gatekeeperwiki)                | [web](https://www.gatekeeper.wiki/)                                                    |     |
+| Documentation    | Obsidian Tasks — obsidian-tasks-group     | [vault](https://github.com/obsidian-tasks-group/obsidian-tasks)              | [web](https://publish.obsidian.md/tasks/)                                              |     |
 | Engineering      | Data Engineering Wiki                     | [vault](https://github.com/data-engineering-community/data-engineering-wiki) | [web](https://dataengineering.wiki/Index)                                              |     |
 | Kownledge        | KaaS — jimbrig                            | [vault](https://github.com/jimbrig/KaaS)                                     | [web](https://kaas.jimbrig.com/)                                                       |     |
 | Kownledge        | Knowledge — nikitavoloboev                | [vault](https://github.com/nikitavoloboev/knowledge)                         | [web](https://nikiv.dev/)                                                              |     |
