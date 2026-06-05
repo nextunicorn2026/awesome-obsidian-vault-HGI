@@ -1,0 +1,66 @@
+name: ✨ Suggest a vault
+description: Propose an Obsidian vault or Markdown knowledge base to add to the list.
+title: "[Vault]: "
+labels: ["new-vault"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Fill out the details below.
+        A pull request that adds the table row directly is even faster — see
+        [CONTRIBUTING.md](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/blob/main/CONTRIBUTING.md).
+  - type: input
+    id: name
+    attributes:
+      label: Name and author
+      description: 'e.g. "Blue Book — lyz-code"'
+      placeholder: Name — author
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Computer Science
+        - Cooking
+        - Cosmology
+        - Dev & Design
+        - Digital Garden
+        - Documentation
+        - Engineering
+        - Knowledge
+        - Personal Site
+        - Sample vault
+        - Web Directory
+        - Other (describe below)
+    validations:
+      required: true
+  - type: input
+    id: vault
+    attributes:
+      label: Vault URL (source / repository)
+      placeholder: https://github.com/...
+  - type: input
+    id: web
+    attributes:
+      label: Web URL (published site, if any)
+      placeholder: https://...
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it worth adding?
+      description: What makes it useful or notable? Note if you think it deserves the ✨ standout mark and why.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: The content is in Markdown (Obsidian-compatible or close to it).
+          required: true
+        - label: At least one of the vault or web URLs is provided and works.
+          required: true
+        - label: It isn't already in the list.
+          required: true

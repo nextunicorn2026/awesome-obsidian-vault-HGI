@@ -1,5 +1,9 @@
 # Awesome List of Obsidian vaults
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Link Check](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml/badge.svg)](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/actions/workflows/links.yml)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
+
 > [!NOTE]
 > Not all of the vaults are fully compatible with Obsidian's Markdown syntax. Some of them come from static site generators, such as Hugo.
 
@@ -86,3 +90,14 @@ A curated list of awesome resources, templates, guides for developers, digital g
 - [Quartz - Showcases](https://quartz.jzhao.xyz/showcase)
 
 Feel free to explore and contribute to these awesome resources!
+
+## Contributing
+
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to
+suggest a vault, the formatting rules, and the criteria for the ✨ mark. The
+quickest way is to [open a "Suggest a vault" issue](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/issues/new/choose).
+
+## License
+
+This list is dedicated to the public domain under [CC0 1.0](LICENSE).
+Linked vaults remain under their respective owners' licenses.
