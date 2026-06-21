@@ -7,7 +7,7 @@ created: 2026-06-20
 
 # 03-Knowledge-Universe
 
-*Section index — add links here as content is created.*
+- [[Knowledge-Registry|Knowledge Registry]]
 
 ---
 *[[../VAULT-INDEX|← Home]]*

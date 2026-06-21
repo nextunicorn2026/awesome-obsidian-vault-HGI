@@ -30,5 +30,7 @@ Each agent maintains a persistent memory space:
 
 Use template: [[Templates/Agent-Memory|Agent Memory Template]]
 
+- [[Agent-Registry|Agent Registry]]
+
 ---
 *[[VAULT-INDEX|← Home]]*
