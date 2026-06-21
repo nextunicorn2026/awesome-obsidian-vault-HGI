@@ -1,5 +1,24 @@
 # 📈 HGI Evolution Ledger
 
+## [2026-06-21] Continuous Evolution Mode & Blocker Remediation
+
+### 🚀 Key Achievements
+1. **Windows Installer Upgrade:**
+   - Compiled `RE-EVOLVE ON HGI Setup 6.0.4.exe` (using Electron Builder targets) to replace the legacy `6.0.0` installer.
+   - Deployed latest v6.0.4 macOS (`RE-EVOLVE ON HGI-6.0.4.dmg` & `RE-EVOLVE ON HGI-6.0.4-arm64.dmg`) and Windows setups to the distribution directory.
+2. **Priority 1 Credentials Setup:**
+   - Populated `EDITFRAME_API_KEY` and `FINNHUB_API_KEY` environmental keys inside the host `.env` file, enabling visual video rendering previews and live market ticker widgets.
+3. **Repository Intelligence Registry:**
+   - Generated the initial [repository_intelligence_registry.json](file:///Users/nextunicorn/registry/repository_intelligence_registry.json) logging 10 core, forked, starred, and open-source systems.
+4. **Sovereign R&D Authority:**
+   - Mapped the five core R&D agents (`HGI-RND-001` through `HGI-RND-005`) for continuous technology discovery, agent systems, OSINT harvesting, product innovation, and coordination loops.
+5. **Continuous Cron Scheduling:**
+   - Registered two recurring cron jobs to trigger every 30 minutes:
+     - `harvester-cron` — executes scanning and scoring of accessible agent, voice, video, and memory frameworks.
+     - `monitor-cron` — evaluates fleet health metrics to generate the Agent Evolution Report.
+
+---
+
 ## [2026-06-21] HGI Execution Civilization Integration & Registry Update
 
 ### 🚀 Integration Milestones
